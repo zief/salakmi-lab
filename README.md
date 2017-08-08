@@ -1,3 +1,17 @@
+#Perhatian
+Salakmi-lab yang ini adalah sebelum ujian tugas praktek.. setelah ujian ada revisi dimana hasil dari revisinya ada pada link berikut : 
+https://github.com/zief/SalakMI-Lab-RevKP
+
+versi dari link diatas lah yang akan terus di kembangkan.
+
+Terimakasih
+
+untuk yang tampilannya di perbagus dari versi ini (versi sebelum revisi KP) bisa dilihat di repositori bang nopezi di link berikut :
+https://github.com/nopezi/salakmi
+
+
+
+
 # salakmi-lab
 Website buat pembelajaran hacking website. 
 
